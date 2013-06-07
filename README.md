@@ -10,6 +10,8 @@ Committin'
 
 Changes. (testing)
 
+test test. testy test.
+
 ## Example
 
 ```js
