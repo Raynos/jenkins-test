@@ -10,7 +10,7 @@ Committin'
 
 Changes. (testing)
 
-test test. testy test. test mctest
+test test. testy test.
 
 test. test 2.
 test 5.
