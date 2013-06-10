@@ -10,7 +10,7 @@ Committin'
 
 Changes. (testing)
 
-test test. testy test.
+test test. testy test. testy test.
 
 ## Example
 
